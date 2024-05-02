@@ -8,7 +8,7 @@ I'm a software engineer at the BBC with interests and experience in:
 - API design and frameworks (REST, GraphQL, event driven)
 - data bases
 - Agile development
-- writing and designing unit/integration tests
+- designing unit/integration tests and TDD
 - core web technologies (JS, HTML, CSS) and modern web apis like WebGl and WebASM
 - serverless and container technology (lambdas, docker, kubernetes)
 - Ci/Cd workflows, scripts and automation
