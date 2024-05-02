@@ -1,11 +1,11 @@
-Hi, welcome to my GitHub space.
+Hi, welcome to my GitHub space 👋
 
-Feel free to explore my past projects and reuse their source code. If used outside of your own personal project, please remember to accredit the code appropriately.
+Feel free to explore my past projects and reuse their source code. If used outside of your own personal project, please remember to accredit the code appropriately. 👍
 
-I'm a trainee software engineer at the BBC with key interests and experience in:
-- cloud infrastructure and developing on AWS
+I'm a software engineer at the BBC with interests and experience in:
+- cloud infrastructure as code and monitoring in AWS
 - microservice and full stack web app development, mainly JS front-ends (React) and Java-like backends (Java Spring, Scala)
-- API design and frameworks (REST, GraphQL, event streams)
+- API design and frameworks (REST, GraphQL, event driven)
 - data bases
 - Agile development
 - writing and designing unit/integration tests
@@ -15,8 +15,7 @@ I'm a trainee software engineer at the BBC with key interests and experience in:
 - high performance graphics
 - principles and practices of good software engineering
 
-I am most familiar with developing front-ends and component libraries for web apps with TS and react, but have gained experience managing and building back-end services and apis. 
-I am interested in all aspects of the development lifecycle, from requirement, to development, to test, to release and to monitoring, and how automation and plain text formats like markdown and YAML can help agile teams maintain and develop more and better quality software, faster.
+I am most familiar with developing front-ends and component libraries for web apps with TS and react, but have gained experience managing and building back-end services and apis.
 
 <!---
 TMoCo/TMoCo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
